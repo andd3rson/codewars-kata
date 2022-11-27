@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using square_of_squares;
+
+
+
+Console.WriteLine(Square.IsSquare(425861));
