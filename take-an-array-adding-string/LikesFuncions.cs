@@ -1,6 +1,6 @@
 public static class LikeFunctions
 {
-    public static string LikeTransform(string[] names)
+    public static string LikeTransform(List<string> names)
     {
         switch (names.Count())
         {
